@@ -1,0 +1,16 @@
+{
+  "name": "climateweb",
+  "version": "1.0.0",
+  "description": "first website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prasad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "require": "^2.4.20"
+  }
+}
